@@ -1,0 +1,25 @@
+{
+  "name": "haccp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karavelafeliz/HACCP.git"
+  },
+  "keywords": [
+    "haccp"
+  ],
+  "author": "st",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karavelafeliz/HACCP/issues"
+  },
+  "homepage": "https://github.com/karavelafeliz/HACCP#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
